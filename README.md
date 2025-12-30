@@ -12,4 +12,4 @@ Simple 2D platformer game made with Godot.
 - Levels
 
 ## Play the game online here
-https://shaima-das.github.io/Quick-Escape-Web/
+https://h-othman1515.github.io/Quick-Escape-Web/
